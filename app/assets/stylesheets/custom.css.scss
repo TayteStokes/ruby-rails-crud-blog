@@ -14,3 +14,30 @@
 .center {
     text-align: center;
 }
+
+.jumbotron {
+    background-image: asset-url('hero.jpg');
+    background-size: cover;
+    height: 550px;
+}
+
+.jumbotron h1 {
+    color: #FFF;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
+.btn-xlg {
+    font-size: 1.7em;
+    background-color: black;
+    border: none;
+}
+
+footer {
+    margin-top: 45px;
+    padding-top: 5px;
+    border-top: 1px solid #EAEAEA;
+    color: #777;
+}
