@@ -1,2 +1,16 @@
-@import "bootstrap-sprockets";
+// Boot Strap
 @import "bootstrap";
+
+// Custom Styling
+#logo {
+    float: left;
+    font-size: 1.7em;
+    color: #232323;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
