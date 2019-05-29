@@ -5,6 +5,8 @@ ruby '2.6.1'
 
 # bootstrap
 gem 'bootstrap', '~> 4.3.1'
+# bcrypt
+gem 'bcrypt', '~> 3.1.7'
 # jquery
 gem 'jquery-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
